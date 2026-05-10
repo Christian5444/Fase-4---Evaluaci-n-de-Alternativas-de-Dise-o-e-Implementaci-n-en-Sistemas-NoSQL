@@ -7,7 +7,8 @@ Christian Andres Muñoz Ibañez Estudiante de Ingeniería de Sistemas - UNAD Cur
 Director de Curso: Handry Orozco
 📝 Descripción del Proyecto
 
-Este repositorio contiene la implementación técnica de un sistema de gestión de inventario para la empresa TechServices S.A.S. El objetivo principal es evaluar y demostrar las ventajas de las bases de datos NoSQL (específicamente MongoDB) en escenarios de Big Data, donde la velocidad de ingesta, la elasticidad del esquema y la escalabilidad horizontal son críticas.
+Este repositorio contiene la implementación técnica de un sistema de gestión de inventario para la empresa x. El objetivo principal es evaluar y demostrar las ventajas de las bases de datos NoSQL (específicamente MongoDB) en escenarios de Big Data, donde la velocidad de ingesta, la elasticidad del esquema y la escalabilidad horizontal son críticas.
+
 🎯 Caso de Uso
 
 Gestión de un catálogo heterogéneo de productos tecnológicos (Laptops, periféricos y accesorios) mediante una arquitectura orientada a documentos que permite:
@@ -33,15 +34,3 @@ Gestión de un catálogo heterogéneo de productos tecnológicos (Laptops, perif
     /scripts: Contiene el código de automatización para la ingesta de 100 documentos y las consultas CRUD.
 
     /analitica: Pipeline de agregación para la obtención de métricas de negocio (KPIs).
-
-    /docs: Evidencias fotográficas y documentación del diseño de campos.
-
-Instrucciones para GitHub:
-
-    Ve a tu repositorio en GitHub.
-
-    Haz clic en "Add file" -> "Create new file".
-
-    Ponle de nombre README.md.
-
-    Pega el texto de arriba y dale a "Commit changes".
