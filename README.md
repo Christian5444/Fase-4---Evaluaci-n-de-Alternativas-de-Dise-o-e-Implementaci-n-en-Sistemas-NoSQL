@@ -1,9 +1,5 @@
 # Fase-4---Evaluaci-n-de-Alternativas-de-Dise-o-e-Implementaci-n-en-Sistemas-NoSQL
 
-¡Perfecto! El "inicio" de tu repositorio es el archivo README.md. Es lo primero que ve el tutor (y cualquier reclutador) al entrar, así que debe ser profesional y estructurado.
-
-Aquí tienes una propuesta lista para copiar y pegar en tu archivo README.md, adaptada con todo el lenguaje técnico de Big Data que hemos trabajado:
-Fase 4 - Evaluación de Alternativas de Diseño e Implementación en Sistemas NoSQL
 👨‍💻 Autor
 
 Christian Andres Muñoz Ibañez Estudiante de Ingeniería de Sistemas - UNAD Curso: Big Data
