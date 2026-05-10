@@ -36,16 +36,6 @@ Gestión de un catálogo heterogéneo de productos tecnológicos (Laptops, perif
 
     /docs: Evidencias fotográficas y documentación del diseño de campos.
 
-🏛️ Compromiso Ético Profesional
-
-Como futuro Ingeniero de Sistemas de la UNAD, este proyecto se desarrolla bajo principios de ética profesional, priorizando:
-
-    Privacidad: Diseño de sistemas que respeten la integridad de los datos.
-
-    Veracidad: Aseguramiento de la calidad de la información mediante tipado de datos correcto.
-
-    Progreso Social: Uso de la tecnología como herramienta para el bienestar colectivo.
-
 Instrucciones para GitHub:
 
     Ve a tu repositorio en GitHub.
